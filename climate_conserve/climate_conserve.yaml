@@ -1,7 +1,7 @@
 # ver 1.2
 
 blueprint:
-  name: HVAC Pause
+  name: Climate Conserve
   description: Pauses HVAC when windows/doors open; resumes last state once closed
   domain: automation
 
