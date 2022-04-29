@@ -30,6 +30,7 @@ blueprint:
       selector:
         number:
           min: 0
+          max: 600
           unit_of_measurement: "Seconds"
 
     resume_delay_secs:
@@ -39,6 +40,7 @@ blueprint:
       selector:
         number:
           min: 0
+          max: 600
           unit_of_measurement: "Seconds"
 
 mode: single      
